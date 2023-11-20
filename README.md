@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Bartosz Piekarski
 - 👀 I’m interested in learning Java
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently doing a course on Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me PiekarskiB5@gmail.com
 
